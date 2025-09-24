@@ -18,7 +18,7 @@
 
 ### 🎵 Screenshot - 1
 
-![InGame1](./MusScreenShots/3.png)
+![InGame1](./MusicPlayer/creenShots/3.png)
 
 ### 🎵 Screenshot - 2
 ![InGame2](./ScreenShots/2.png)
