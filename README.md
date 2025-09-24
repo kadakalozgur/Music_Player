@@ -17,6 +17,7 @@
 ### 🖼️ Screenshots
 
 ### 🎵 Main Interface
+
 ![InGame1](./ScreenShots/1.png)
 
 ### 🎵 Playlist View
@@ -53,6 +54,7 @@ The program automatically creates a special folder in **My Documents** called
 This ensures that your music and playlists are **not deleted when the program is closed**.
 
 📸 **File System Example:**  
+
 ![FileSystem](./ScreenShots/filesystem.png)
 
 ---
@@ -83,6 +85,7 @@ For any feedback, questions, or suggestions:
 ### 🖼️ Ekran Görüntüleri
 
 ### 🎵 Ana Arayüz
+
 ![InGame1](./ScreenShots/1.png)
 
 ### 🎵 Playlist Görünümü
@@ -120,6 +123,7 @@ Program, kapatılıp açıldığında playlist ve şarkıların kaybolmaması i�
 Tüm playlist bilgileri ve şarkılar burada saklanır.  
 
 📸 **Örnek Ekran Görüntüsü:**  
+
 ![FileSystem](./ScreenShots/filesystem.png)
 
 ---
