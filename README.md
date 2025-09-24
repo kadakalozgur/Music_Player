@@ -21,10 +21,10 @@
 ![InGame1](./MusicPlayer/ScreenShots/3.png)
 
 ### 🎵 Screenshot - 2
-![InGame2](./ScreenShots/2.png)
+![InGame2](./MusicPlayer/ScreenShots/2.png)
 
 ### 🎵 Screenshot - 3
-![InGame3](./ScreenShots/1.png)
+![InGame3](./MusicPlayer/ScreenShots/1.png)
 
 ---
 
@@ -55,7 +55,7 @@ This ensures that your music and playlists are **not deleted when the program is
 
 📸 **File System Example:**  
 
-![FileSystem](./ScreenShots/4.png)
+![FileSystem](./MusicPlayer/ScreenShots/4.png)
 
 ---
 
@@ -86,13 +86,13 @@ For any feedback, questions, or suggestions:
 
 ### 🎵 Ekran Görüntüsü - 1 
 
-![InGame1](./ScreenShots/3.png)
+![InGame1](./MusicPlayer/ScreenShots/3.png)
 
 ### 🎵 Ekran Görüntüsü - 2 
-![InGame2](./ScreenShots/2.png)
+![InGame2](./MusicPlayer/ScreenShots/2.png)
 
 ### 🎵 Ekran Görüntüsü - 3 
-![InGame3](./ScreenShots/1.png)
+![InGame3](./MusicPlayer/ScreenShots/1.png)
 
 ---
 
@@ -124,7 +124,7 @@ Tüm playlist bilgileri ve şarkılar burada saklanır.
 
 📸 **Örnek Ekran Görüntüsü:**  
 
-![FileSystem](./ScreenShots/4.png)
+![FileSystem](./MusicPlayer/ScreenShots/4.png)
 
 ---
 
