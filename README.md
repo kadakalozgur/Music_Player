@@ -49,6 +49,7 @@ It allows users to create playlists, manage songs, and enjoy smooth playback con
 
 * 🤖 This project uses **AI systems**.
 
+
 🧑‍💻 *This project was developed from scratch by Özgür Kadakal.*  
 📌 *All code and assets are original.*
 
@@ -124,6 +125,7 @@ modern bir masaüstü uygulamasıdır. Kullanıcılar kendi playlistlerini oluş
 **Ek Notlar:**
 
 * 🤖 Bu projede **yapay zekadan faydalanılmıştır**.
+
 
 🧑‍💻 *Bu proje Özgür Kadakal tarafından sıfırdan geliştirilmiştir.*  
 📌 *Tüm kodlar ve içerikler özgündür.*
