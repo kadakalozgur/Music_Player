@@ -45,6 +45,13 @@ It allows users to create playlists, manage songs, and enjoy smooth playback con
 * ✨ Hover & scaling button effects for modern UI feel
 * 💾 Playlists and songs are saved permanently (they do not reset when program closes)
 
+**Additional Notes:**
+
+* 🤖 This project uses **AI systems**.
+
+🧑‍💻 *This project was developed from scratch by Özgür Kadakal.*  
+📌 *All code and assets are original.*
+
 ---
 
 ### 📂 File System
@@ -113,6 +120,13 @@ modern bir masaüstü uygulamasıdır. Kullanıcılar kendi playlistlerini oluş
 * 🔊 Ses barı: tamamen sessize alma, sesi tıklayarak ayarlama
 * ✨ Hover ve buton büyüme efektleri ile modern arayüz
 * 💾 Playlist ve şarkılar program kapanınca silinmez, kalıcıdır
+
+**Ek Notlar:**
+
+* 🤖 Bu projede **yapay zekadan faydalanılmıştır**.
+
+🧑‍💻 *Bu proje Özgür Kadakal tarafından sıfırdan geliştirilmiştir.*  
+📌 *Tüm kodlar ve içerikler özgündür.*
 
 ---
 
