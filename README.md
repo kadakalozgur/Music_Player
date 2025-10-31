@@ -1,6 +1,6 @@
 ## 🌍 English
 
-# 🎵 Music Player 🎶
+# 🎵 Music Playe 🎶
 
 ### - Developed by Özgür Kadakal
 
